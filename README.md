@@ -66,7 +66,9 @@ Scalable data workflows
 
 🤝 Let’s Connect
 📍 Hamburg, Germany
+
 🔗 LinkedIn: https://www.linkedin.com/in/supreetha-devagiri-1b5385211/
+
 📧 Email: supreethadevagiri@gmail.com
 
 “Good models predict. Great systems scale.”
