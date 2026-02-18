@@ -1,11 +1,11 @@
-👋 Hi, I’m Supreetha
+#👋 Hi, I’m Supreetha
 
 🎓 M.Sc. Applied Data Science & Analytics @ SRH Hochschule Hamburg
 📍 Hamburg, Germany
 🧠 Focused on Machine Learning, Predictive Modeling & Scalable Data Systems
 📊 Bridging analytical thinking with production-grade ML pipelines
 
-👩‍💻 About Me
+#👩‍💻 About Me
 
 I’m a Computer Science graduate currently pursuing a Master’s in Applied Data Science & Analytics in Germany.
 My focus lies in building end-to-end machine learning systems — from raw data ingestion and preprocessing to model development, evaluation, and deployment-ready workflows.
@@ -19,9 +19,9 @@ Model monitoring & evaluation
 
 I approach problems with both a software engineering mindset and a statistical learning perspective, ensuring solutions are scalable, reproducible, and performance-driven.
 
-🧠 Core Technical Expertise
+#🧠 Core Technical Expertise
 
-🐍 Programming & Data Processing
+#🐍 Programming & Data Processing
 
 Python (Pandas, NumPy)
 SQL
@@ -29,7 +29,7 @@ Data Cleaning & Transformation
 Feature Engineering
 Data Validation & Structured Workflows
 
-🤖 Machine Learning
+#🤖 Machine Learning
 
 Supervised Learning (Classification & Regression)
 Imbalanced Data Handling (SMOTE, class weighting)
@@ -39,7 +39,7 @@ Performance Metrics (ROC-AUC, Precision, Recall, F1-score)
 Confusion Matrix & Error Analysis
 Feature Importance & Model Interpretability
 
-📊 Analytics & Visualization
+#📊 Analytics & Visualization
 
 Exploratory Data Analysis (EDA)
 Statistical Analysis
@@ -48,7 +48,7 @@ Tableau
 KPI Reporting & Analytical Dashboards
 Excel (advanced functions & reporting)
 
-⚙️ Systems & Workflow
+#⚙️ Systems & Workflow
 
 End-to-End ML Pipelines
 Model Serialization
@@ -57,7 +57,7 @@ Docker (containerized environments)
 Git & Version Control
 Agile Collaboration
 
-🎯 Current Focus
+#🎯 Current Focus
 
 Production-oriented ML systems
 Model monitoring & drift detection
@@ -71,4 +71,4 @@ Scalable data workflows
 
 📧 Email: supreethadevagiri@gmail.com
 
-“Good models predict. Great systems scale.”
+#“Good models predict. Great systems scale.”
