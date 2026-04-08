@@ -57,18 +57,18 @@ Docker (containerized environments)
 Git & Version Control
 Agile Collaboration
 
-##🎯 Current Focus
+**🎯 Current Focus**
 
 Production-oriented ML systems
 Model monitoring & drift detection
 Applied MLOps fundamentals
 Scalable data workflows
 
-🤝 Let’s Connect
+**🤝 Let’s Connect**
 📍 Hamburg, Germany
 
 🔗 LinkedIn: https://www.linkedin.com/in/supreetha-devagiri-1b5385211/
 
 📧 Email: supreethadevagiri@gmail.com
 
-##“Good models predict. Great systems scale.”
+**“Good models predict. Great systems scale.”**
