@@ -2,6 +2,7 @@
 
 🎓 M.Sc. Applied Data Science & Analytics @ SRH Hochschule Hamburg
 📍 Hamburg, Germany
+
 🧠 Focused on Machine Learning, Predictive Modeling & Scalable Data Systems
 📊 Bridging analytical thinking with production-grade ML pipelines
 
